@@ -18,6 +18,4 @@ a:active {
   width: 0;
 }
 
-body {
-  overflow-x: hidden;
-}
+html, body {margin: 0; height: 100%; overflow-x: hidden}

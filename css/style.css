@@ -425,9 +425,10 @@ body {
 
 .section-how__tree-2 {
   position: absolute;
-  bottom: -500px;
+  bottom: -700px;
   left: -10px;
   transform: scaleX(-1);
+  z-index: -1;
 }
 
 .section-how__trees-1 {
